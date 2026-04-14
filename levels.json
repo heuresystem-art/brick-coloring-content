@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Animals",
+      "sortOrder": 1,
+      "thumbnailURL": "https://i.postimg.cc/13HPt9yB/araxhs-ai-generated-8587505.jpg",
+      "levels": [
+        {
+          "id": "animals_1",
+          "title": "White Cat",
+          "levelNumber": 1,
+          "difficulty": "easy",
+          "boardSize": 18,
+          "paletteLimit": 8,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/13HPt9yB/araxhs-ai-generated-8587505.jpg",
+          "thumbnailURL": "https://i.postimg.cc/13HPt9yB/araxhs-ai-generated-8587505.jpg"
+        },
+        {
+          "id": "animals_2",
+          "title": "White Rabbit",
+          "levelNumber": 2,
+          "difficulty": "easy",
+          "boardSize": 18,
+          "paletteLimit": 8,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/pLZxT2PJ/hey-juda-ai-generated-8362489.png",
+          "thumbnailURL": "https://i.postimg.cc/pLZxT2PJ/hey-juda-ai-generated-8362489.png"
+        }
+      ]
+    }
+  ]
+}
